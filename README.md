@@ -18,9 +18,8 @@
 ## 画像生成[:movie_camera:waterfall.ipynb](waterfall.ipynb)<a name="section2"></a>
 mp4動画を取り込んでもらって，それを圧縮したものを用いた予測を行い，展開したものを動画化しています
 好きな次元数に圧縮してみて，傾向を見てみる
-[![Watch the video](https://img.youtube.com/vi/sn7UdSm6QZI/hqdefault.
-jpg)]
-(https://youtu.be/sn7UdSm6QZI)  
+[![生成された画像の例](https://i9.ytimg.com/vi_webp/sn7UdSm6QZI/mq2.webp?sqp=CIDXn6UG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCtsAsuNFOVrvSBQf5PhJHBAT1uhQ)](https://youtu.be/sn7UdSm6QZI)
+
 
 
 ## 単語類推クイズ[:fire:quiz_game_v2.ipynb](quiz_game_v2.ipynb)<a name="section3"></a>
