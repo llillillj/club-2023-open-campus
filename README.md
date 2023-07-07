@@ -4,7 +4,6 @@
 - [セグメンテーション](#section1)
 - [画像生成](#section2)
 - [単語類推クイズ](#section3)
-- [画像生成2](#section4)
 ---
 ## セグメンテーション[:camera:webcam_SAM.ipynb](webcam_SAM.ipynb) <a name="section1"></a>
 写真を撮影して領域ごとに分割した結果を出力<br>
