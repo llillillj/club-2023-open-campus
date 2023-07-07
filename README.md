@@ -6,7 +6,7 @@
 - [単語類推クイズ](#section3)
 - [画像生成2](#section4)
 
-## セグメンテーション <a name="section1"></a>
+## <a href="./webcam_SAM.ipynb">セグメンテーション</a> <a name="section1"></a>
 写真を撮影して領域ごとに分割した結果を出力
 出力例
 
@@ -14,9 +14,9 @@
 - https://github.com/facebookresearch/segment-anything
 - https://qiita.com/PoodleMaster/items/480b1da080282b15b584
 
-## 画像生成 <a name="section2"></a>
+## <a href="./waterfall.ipynb">画像生成</a><a name="section2"></a>
 mp4動画を取り込んでもらって，それを圧縮したものを用いた予測を行い，展開したものを動画化しています
 好きな次元数に圧縮してみて，傾向を見てみる
 
-## 単語類推クイズ <a name="section3"></a>
+## <a href="./quiz_game_v2.ipynb">単語類推クイズ</a><a name="section3"></a>
 単語間を演算した結果，どんな単語と（ある種の意味的に）近くなるのか当ててみよう
